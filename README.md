@@ -63,5 +63,3 @@ The goal of this project is to build a robust speaker recognition model that can
 * CNNs combined with log-Mel spectrograms provide powerful speaker embeddings.
 * Even with a limited dataset, proper preprocessing and augmentation can yield high generalization.
 * The model is lightweight and suitable for real-time applications and potentially mobile deployment.
-
-Would you like me to generate this as a downloadable `README.md` file as well?
